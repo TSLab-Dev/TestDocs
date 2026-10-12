@@ -1,0 +1,10 @@
+title: TestDocs
+optionalCategoryIndex: true
+language: en
+supportedLanguages:
+  - en
+  - ru
+properties: []
+lfs:
+  auto: false
+  exclude: []
