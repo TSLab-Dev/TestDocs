@@ -4,7 +4,17 @@ language: en
 supportedLanguages:
   - en
   - ru
-properties: []
+properties:
+  - id: mjbMb
+    name: SiteName
+    type: Text
+  - id: 5sWBp
+    name: Region
+    type: Enum
+    values:
+      - Russian
+      - Global
+      - Us
 lfs:
   auto: false
   exclude: []
