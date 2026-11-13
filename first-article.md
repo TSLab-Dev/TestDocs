@@ -1,6 +1,6 @@
 ---
 title: First article
-order: 1
+order: 3
 ---
 
 Some text

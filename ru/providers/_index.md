@@ -1,6 +1,6 @@
 ---
 title: Поставщики
-order: 2
+order: 4
 ---
 
 [view:hierarchy=none::::List]

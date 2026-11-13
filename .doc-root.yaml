@@ -15,6 +15,9 @@ properties:
       - Russian
       - Global
       - Us
+  - id: RBZs7
+    name: transliteration
+    type: Text
 lfs:
   auto: false
   exclude: []

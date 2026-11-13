@@ -1,6 +1,6 @@
 ---
 title: Providers
-order: 2
+order: 4
 ---
 
 folder for provider articles
